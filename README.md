@@ -13,5 +13,5 @@ Simply project for banks using TCP server.
 ## Function
 - Login using nickname and password from text file
 - Check account ballance
-- Input and output money
+- Input/output money
 - Save logs to file
