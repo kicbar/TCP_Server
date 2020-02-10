@@ -7,8 +7,8 @@ Simply project for banks using TCP server.
 * gcc klient.c -o klient
 
 ## To run:
-* sudo ./serwer <port number>
-* sudo ./klient <ip address> <port number>
+* sudo ./serwer port_number
+* sudo ./klient ip_address port_number
 
 ## Function
 - Login using nickname and password from text file
